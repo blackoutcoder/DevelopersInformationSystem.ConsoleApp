@@ -1,5 +1,4 @@
-![DevInfoSys drawio (1)](https://user-images.githubusercontent.com/94862044/177057173-52ec1616-eaef-4109-874d-a5d62cd22adb.png)
-
+![DevInfoSys drawio (2)](https://user-images.githubusercontent.com/94862044/177057218-611cc690-acda-49ea-9620-140effd5e841.png)
 Developers information system:
 
 
